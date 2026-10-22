@@ -1,0 +1,4 @@
+{"device_id":"D1","timestamp":"2026-10-22T10:00:00","temperature_c":30,"humidity":50}
+{"device_id":"D1","timestamp":"2026-10-22T10:01:00","temperature_c":"bad","humidity":45}
+{"device_id":"D1","timestamp":"2026-10-22T10:02:00","temperature_c":34,"humidity":60}
+{"device_id":"D2","timestamp":"2026-10-22T10:03:00","temperature_c":25,"humidity":55}

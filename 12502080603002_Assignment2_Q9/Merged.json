@@ -1,0 +1,9 @@
+[
+    {
+        "product_id": "P1",
+        "name": "Pen",
+        "stock": 17,
+        "purchase_price": 4,
+        "selling_price": 9
+    }
+]
