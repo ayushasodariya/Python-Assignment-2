@@ -24,7 +24,6 @@ A collection of 10 Python programs for the course **Programming with Python (202
 - [Getting Started](#-getting-started)
 - [Detailed Program Guide](#-detailed-program-guide)
 - [Key Concepts Demonstrated](#-key-concepts-demonstrated)
-- [Author](#-author)
 
 ---
 
@@ -352,9 +351,3 @@ Reads a CSV file of student marks, cleans missing values, calculates **subject-w
 - Input validation and error handling
 
 ---
-
-## 👤 Author
-
-**Ayush Asodariya**
-- GitHub: [@ayushasodariya](https://github.com/ayushasodariya)
-- Enrollment No.: 12502080603002
